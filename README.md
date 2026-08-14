@@ -4,7 +4,7 @@
 
 <br>
 
-<h2>Know About Me</h2>
+<h2>Sobre Mim</h2>
 <table border="0" width="100%">
   <tr>
     <td width="75%">
