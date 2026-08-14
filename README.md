@@ -4,13 +4,13 @@
 
 <br>
 
-<h2>Know About Me</h2>
+<h2>Sobre Mim</h2>
 <table border="0" width="100%">
   <tr>
     <td width="75%">
-      <p><b>João Vitor Teixeira de Souza | Arquiteto de Software & Fundador @ TexVio</b></p>
-      <p>Engenheiro focado no desenvolvimento de plataformas SaaS (Software as a Service) e soluções corporativas sob encomenda. Lidero a arquitetura de ponta a ponta na <b>TexVio</b>, projetando sistemas de alta disponibilidade para logística, automação e gestão de pagamentos.</p>
-      <p>Minha atuação é estritamente voltada para negócios: construo painéis administrativos complexos em PHP/MySQL (GCP e Hostinger) com regras de negócios profundas, garantindo integrações seguras e responsividade cirúrgica nas pontas da operação (dispositivos móveis).<br><br><i>* Nota: Devido a contratos de confidencialidade (NDA) e arquitetura proprietária SaaS, o código-fonte dos meus projetos é mantido em repositórios privados.</i></p>
+      <p><b>João Vitor Teixeira de Souza | Arquiteto de Software & Fundador TexVio</b></p>
+      <p>Engenheiro focado no desenvolvimento de plataformas SaaS (Software as a Service) e soluções corporativas sob encomenda. Lidero a arquitetura de ponta a ponta na <b>TexVio</b>, projetando sistemas para logística, automação e gestão de pagamentos.</p>
+      <p>Minha atuação é voltada para negócios: construo painéis administrativos complexos em PHP/MySQL (GCP e Hostinger) com regras de negócios profundas, garantindo integrações seguras e responsividade cirúrgica nas pontas da operação (dispositivos móveis).<br><br><i>* Nota: Devido a contratos de confidencialidade (NDA) e arquitetura proprietária SaaS, o código-fonte dos meus projetos é mantido em repositórios privados.</i></p>
     </td>
     <td width="25%" align="center">
       <img src="avatar.jpg" alt="João Vitor" width="200">
@@ -42,7 +42,7 @@
 
 <h2 align="center">Connect</h2>
 <p align="center">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:jv00506182@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://texvio.com.br"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TexVio Web" /></a>
   <a href="SEU_LINK_DO_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
